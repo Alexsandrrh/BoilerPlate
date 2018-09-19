@@ -10,6 +10,7 @@
 
 - Отредактированы и созданы файлы 
 
-  `container.css`
+  [container.css](https://github.com/Alexsandrrh/BoilerPlate/blob/master/assets/css/container.css)
 
-  `style.css`
+  [style.css](https://github.com/Alexsandrrh/BoilerPlate/blob/master/assets/css/style.css)
+
